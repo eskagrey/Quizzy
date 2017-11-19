@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quizzy</string>
+    <string name="quiz1">Menurut penelitian, kendaraan warna apakah yang sering tertabrak atau mengalami kecelakaan?</string>
+    <string name="exp1">Hasil penelitian yang dilakukan di Selandia Baru terhadap berbagai warna kendaraan, warna hitam memiliki angka tertabrak paling tinggi, karena cenderug tidak terlihat oleh kendaraan di belakangnya</string>
+    <string name="quiz2">Siapakah personel The Beatles yang paling tua?</string>
+    <string name="exp2">John Lennon lahir pada tanggal 9 Oktober 1940, desangkan Ringgo Star lahir pada tanggal 7 Juli 1940</string>
+    <string name="quiz3">Letusan gunung yang berhubungan dengan penemuan sepeda adalah?</string>
+    <string name="exp3">Gunung Tambora meletus pada tanggal 5 April 1815. Akibat meletusnya gunung Tambora, musim panas di Eropa terhalang oleh aerosulfat, banyak hewan mati kelaparan, kereta kuda tidak dapat digunakan sehingga mendorong warga Jerman, Karl Dais menciptakan sepeda</string>
+    <string name="quiz4">Pada pukul berapakah pada umumnya arah jarum jam yang terdapat pada brosur promosi atau etalase toko?</string>
+    <string name="exp4">Pada posisi pukul 10 lewat 10 menit merk tidak tertutup, dan pada posisi itu juga jarum pendek da panjang seolah menunjukkan icon orang tersenyum</string>
+    <string name="quiz5">Siapakah personil Warkop DKI yang bukan lulusan Universitas Indonesia?</string>
+    <string name="exp5">Warkop (Warung Kopi) dulu personilnya ada 5, Rudi, Badil, Nanu, Dono, Kasino dan Indro. Hampir semuanya lulusan Universitas Indonesia kecuali Indro. Indro adalah alumni Universitas Pancalisa</string>
+    <string name="ans1">Hitam</string>
+    <string name="ans2">Ringgo Star</string>
+    <string name="ans3">Tambora</string>
+    <string name="ans4">Pukul 10 lewat 10 menit</string>
+    <string name="ans5">Indro</string>
+</resources>
